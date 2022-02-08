@@ -1,6 +1,19 @@
-#Rofida gamal 20198036
-#Amira Hamdy 20198013
-#Diaa Ahmed refaat 20198050
+
+#You are required to apply k-mean clustering on the dataset. You have to go through these steps.
+#• Import dataset
+# You need to understand this dataset and know what it needs to be clustered.
+# Extract your features from the data.
+# Make estimation about what you need to cluster and what these data tells you how samples do you have etc.
+# Pre-processing
+# Your dataset needs to be ready for the training step. So you need to filter your necessary information.
+# Normalizing your data is necessary in this step. (if you have picked up a data that is already normalized then you will get this step points)
+# Training the model
+# What is your suitable k according to your problem?
+# Evaluate your model
+# What are your clusters and their centres?
+# What is your error function? Manhattan distance or Euclidian distance
+# Plot your clusters
+# Justify what is the meaning of these clusters according to your problem?
 
 data <-read.csv("Mall_Customers.csv")
 
